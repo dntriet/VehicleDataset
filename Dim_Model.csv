@@ -1,0 +1,661 @@
+﻿modelid,modelname,manufacturername
+1,1 Series,BMW
+2,1500,Ram
+3,2 Series,BMW
+4,200,Chrysler
+5,2500,Ram
+6,3,Mazda
+7,3 Series,BMW
+8,3 Series Gran Turismo,BMW
+9,300,Chrysler
+10,3500,Ram
+11,350Z,Nissan
+12,360,Ferrari
+13,370Z,Nissan
+14,3-Sep,Saab
+15,4 Series,BMW
+16,4 Series Gran Coupe,BMW
+17,458 Italia,Ferrari
+18,4Runner,Toyota
+19,5 Series,BMW
+20,5 Series Gran Turismo,BMW
+21,500,FIAT
+22,500-Class,Mercedes-Benz
+23,500e,FIAT
+24,500L,FIAT
+25,5-Sep,Saab
+26,6,Mazda
+27,6 Series,BMW
+28,6 Series Gran Coupe,BMW
+29,7 Series,BMW
+30,8 Series,BMW
+31,911,Porsche
+32,9-2X,Saab
+33,9-7X,Saab
+34,A3,Audi
+35,A4,Audi
+36,A5,Audi
+37,A6,Audi
+38,A7,Audi
+39,A8,Audi
+40,Acadia,GMC
+41,Accent,Hyundai
+42,accord,Honda
+43,Accord,Honda
+44,Accord Crosstour,Honda
+45,Accord Hybrid,Honda
+46,ActiveHybrid 5,BMW
+47,ActiveHybrid 7,BMW
+48,ActiveHybrid X6,BMW
+49,allroad,Audi
+50,allroad quattro,Audi
+51,Altima,Nissan
+52,Altima Hybrid,Nissan
+53,Amanti,Kia
+54,Armada,Nissan
+55,Ascender,Isuzu
+56,Aspen,Chrysler
+57,Astra,Saturn
+58,Astro,Chevrolet
+59,Astro Cargo,Chevrolet
+60,ATS,Cadillac
+61,Aura,Saturn
+62,Aura Hybrid,Saturn
+63,Avalanche,Chevrolet
+64,Avalon,Toyota
+65,Avalon Hybrid,Toyota
+66,Avenger,Dodge
+67,Aveo,Chevrolet
+68,Aviator,Lincoln
+69,Azera,Hyundai
+70,B9 Tribeca,Subaru
+71,Baja,Subaru
+72,B-Class Electric Drive,Mercedes-Benz
+73,Beetle,Volkswagen
+74,Beetle Convertible,Volkswagen
+75,Black Diamond Avalanche,Chevrolet
+76,Blackwood,Lincoln
+77,Blazer,Chevrolet
+78,Bonneville,Pontiac
+79,Borrego,Kia
+80,Boxster,Porsche
+81,Bravada,Oldsmobile
+82,BRZ,Subaru
+83,B-Series Truck,Mazda
+84,C/K 1500 Series,Chevrolet
+85,C/K 3500 Series,Chevrolet
+86,C/V Cargo Van,Ram
+87,C/V Tradesman,Ram
+88,C30,Volvo
+89,C70,Volvo
+90,Cadenza,Kia
+91,Caliber,Dodge
+92,California,Ferrari
+93,Camaro,Chevrolet
+94,Camry,Toyota
+95,Camry Hybrid,Toyota
+96,Camry Solara,Toyota
+97,Canyon,GMC
+98,Captiva Sport,Chevrolet
+99,Caravan,Dodge
+100,Cavalier,Chevrolet
+101,Cayenne,Porsche
+102,Cayman,Porsche
+103,Cayman S,Porsche
+104,CC,Volkswagen
+105,C-Class,Mercedes-Benz
+106,Celica,Toyota
+107,Century,Buick
+108,Challenger,Dodge
+109,Charger,Dodge
+110,Cherokee,Jeep
+111,Civic,Honda
+112,CL,Acura
+113,CLA-Class,Mercedes-Benz
+114,CL-Class,Mercedes-Benz
+115,CLK-Class,Mercedes-Benz
+116,CLS-Class,Mercedes-Benz
+117,C-Max Energi,Ford
+118,C-Max Hybrid,Ford
+119,Cobalt,Chevrolet
+120,Colorado,Chevrolet
+121,Commander,Jeep
+122,Compass,Jeep
+123,Continental Flying Spur,Bentley
+124,Continental Flying Spur Speed,Bentley
+125,Continental GT,Bentley
+126,Continental GT Speed,Bentley
+127,Continental GTC,Bentley
+128,Continental GTC Speed,Bentley
+129,Continental Supersports,Bentley
+130,Cooper,MINI
+131,Cooper Clubman,MINI
+132,Cooper Countryman,MINI
+133,Cooper Coupe,MINI
+134,Cooper Paceman,MINI
+135,Cooper Roadster,MINI
+136,Corolla,Toyota
+137,Corvette,Chevrolet
+138,Corvette Stingray,Chevrolet
+139,Coupe,Maserati
+140,Crossfire,Chrysler
+141,Crosstour,Honda
+142,Crown Victoria,Ford
+143,Cruze,Chevrolet
+144,CR-V,Honda
+145,CR-Z,Honda
+146,CT 200h,Lexus
+147,CTS,Cadillac
+148,CTS Coupe,Cadillac
+149,CTS Wagon,Cadillac
+150,CTS-V,Cadillac
+151,CTS-V Coupe,Cadillac
+152,CTS-V Wagon,Cadillac
+153,Cube,Nissan
+154,CV Tradesman,Ram
+155,CX-5,Mazda
+156,CX-7,Mazda
+157,CX-9,Mazda
+158,Dakota,Dodge
+159,Dart,Dodge
+160,DB9,Aston Martin
+161,DeVille,Cadillac
+162,DTS,Cadillac
+163,Durango,Dodge
+164,ECHO,Toyota
+165,E-Class,Mercedes-Benz
+166,Eclipse,Mitsubishi
+167,Eclipse Spyder,Mitsubishi
+168,Econoline Cargo,Ford
+169,Econoline Wagon,Ford
+170,Edge,Ford
+171,Elantra,Hyundai
+172,Elantra Coupe,Hyundai
+173,Elantra GT,Hyundai
+174,Elantra Touring,Hyundai
+175,Eldorado,Cadillac
+176,Element,Honda
+177,ELR,Cadillac
+178,Enclave,Buick
+179,Encore,Buick
+180,Endeavor,Mitsubishi
+181,Entourage,Hyundai
+182,Envoy,GMC
+183,Envoy XL,GMC
+184,Envoy XUV,GMC
+185,Eos,Volkswagen
+186,Equator,Suzuki
+187,Equinox,Chevrolet
+188,Equus,Hyundai
+189,ES 300,Lexus
+190,ES 300h,Lexus
+191,ES 330,Lexus
+192,ES 350,Lexus
+193,Escalade,Cadillac
+194,Escalade ESV,Cadillac
+195,Escalade EXT,Cadillac
+196,Escalade Hybrid,Cadillac
+197,Escape,Ford
+198,Escape Hybrid,Ford
+199,E-Series Van,Ford
+200,E-Series Wagon,Ford
+201,EuroVan,Volkswagen
+202,EX,Infiniti
+203,EX35,Infiniti
+204,Excursion,Ford
+205,Exige,Lotus
+206,Expedition,Ford
+207,Expedition EL,Ford
+208,Explorer,Ford
+209,Explorer Sport Trac,Ford
+210,Express,Chevrolet
+211,Express Cargo,Chevrolet
+212,F-150,Ford
+213,F-150 Heritage,Ford
+214,F-150 SVT Lightning,Ford
+215,F-250 Super Duty,Ford
+216,F-350 Super Duty,Ford
+217,F430,Ferrari
+218,F-450 Super Duty,Ford
+219,Fiesta,Ford
+220,Firebird,Pontiac
+221,Fit,Honda
+222,Five Hundred,Ford
+223,FJ Cruiser,Toyota
+224,Flex,Ford
+225,Focus,Ford
+226,Focus ST,Ford
+227,Forester,Subaru
+228,Forte,Kia
+229,fortwo,smart
+230,Freelander,Land Rover
+231,Freestar,Ford
+232,Freestyle,Ford
+233,Frontier,Nissan
+234,FR-S,Scion
+235,F-TYPE,Jaguar
+236,Fusion,Ford
+237,Fusion Energi,Ford
+238,Fusion Hybrid,Ford
+239,FX,Infiniti
+240,FX35,Infiniti
+241,FX45,Infiniti
+242,FX50,Infiniti
+243,G Convertible,Infiniti
+244,G Coupe,Infiniti
+245,G Sedan,Infiniti
+246,G3,Pontiac
+247,G35,Infiniti
+248,G37,Infiniti
+249,G37 Convertible,Infiniti
+250,G37 Coupe,Infiniti
+251,G5,Pontiac
+252,G6,Pontiac
+253,G8,Pontiac
+254,Galant,Mitsubishi
+255,Gallardo,Lamborghini
+256,G-Class,Mercedes-Benz
+257,Genesis,Hyundai
+258,Genesis Coupe,Hyundai
+259,Ghibli,Maserati
+260,Ghost,Rolls-Royce
+261,GLA-Class,Mercedes-Benz
+262,GL-Class,Mercedes-Benz
+263,GLI,Volkswagen
+264,GLK-Class,Mercedes-Benz
+265,Golf,Volkswagen
+266,Golf GTI,Volkswagen
+267,Golf R,Volkswagen
+268,Grand Am,Pontiac
+269,Grand Caravan,Dodge
+270,Grand Cherokee,Jeep
+271,Grand Cherokee SRT,Jeep
+272,Grand Marquis,Mercury
+273,Grand Prix,Pontiac
+274,Grand Vitara,Suzuki
+275,GranSport,Maserati
+276,GranTurismo,Maserati
+277,GranTurismo Convertible,Maserati
+278,GS 300,Lexus
+279,GS 350,Lexus
+280,GS 400,Lexus
+281,GS 430,Lexus
+282,GS 450h,Lexus
+283,GS 460,Lexus
+284,GTI,Volkswagen
+285,GTO,Pontiac
+286,GT-R,Nissan
+287,GX 460,Lexus
+288,GX 470,Lexus
+289,H1,HUMMER
+290,H2,HUMMER
+291,H2 SUT,HUMMER
+292,H3,HUMMER
+293,H3T,HUMMER
+294,HHR,Chevrolet
+295,Highlander,Toyota
+296,Highlander Hybrid,Toyota
+297,HS 250h,Lexus
+298,I35,Infiniti
+299,i8,BMW
+300,ILX,Acura
+301,i-MiEV,Mitsubishi
+302,Impala,Chevrolet
+303,Impala Limited,Chevrolet
+304,Impreza,Subaru
+305,Impreza WRX,Subaru
+306,Insight,Honda
+307,ION,Saturn
+308,iQ,Scion
+309,IS 250,Lexus
+310,IS 250 C,Lexus
+311,IS 300,Lexus
+312,IS 350,Lexus
+313,IS 350 C,Lexus
+314,IS F,Lexus
+315,i-Series,Isuzu
+316,Jetta,Volkswagen
+317,Jetta GLI,Volkswagen
+318,Jetta Hybrid,Volkswagen
+319,Jetta SportWagen,Volkswagen
+320,Journey,Dodge
+321,Juke,Nissan
+322,JX,Infiniti
+323,K900,Kia
+324,Karma,Fisker
+325,Kizashi,Suzuki
+326,L300,Saturn
+327,LaCrosse,Buick
+328,Lancer,Mitsubishi
+329,Lancer Evolution,Mitsubishi
+330,Lancer Sportback,Mitsubishi
+331,Land Cruiser,Toyota
+332,Leaf,Nissan
+333,Legacy,Subaru
+334,LeSabre,Buick
+335,Liberty,Jeep
+336,LR2,Land Rover
+337,LR3,Land Rover
+338,LR4,Land Rover
+339,LS,Lincoln
+340,LS 400,Lexus
+341,LS 430,Lexus
+342,LS 460,Lexus
+343,LS 600h L,Lexus
+344,L-Series,Saturn
+345,Lucerne,Buick
+346,LX 450,Lexus
+347,LX 470,Lexus
+348,LX 570,Lexus
+349,M,Infiniti
+350,M3,BMW
+351,M35,Infiniti
+352,M37,Infiniti
+353,M4,BMW
+354,M45,Infiniti
+355,M5,BMW
+356,M56,Infiniti
+357,M6,BMW
+358,M6 Gran Coupe,BMW
+359,Macan,Porsche
+360,Magnum,Dodge
+361,malibu,Chevrolet
+362,Malibu,Chevrolet
+363,Malibu Classic,Chevrolet
+364,Malibu Hybrid,Chevrolet
+365,Malibu Maxx,Chevrolet
+366,Marauder,Mercury
+367,Mariner,Mercury
+368,Mariner Hybrid,Mercury
+369,Mark LT,Lincoln
+370,Matrix,Toyota
+371,Maxima,Nissan
+372,Mazda2,Mazda
+373,Mazda3,Mazda
+374,Mazda5,Mazda
+375,Mazda6,Mazda
+376,Mazdaspeed 3,Mazda
+377,Mazdaspeed Mazda3,Mazda
+378,Mazdaspeed Mazda6,Mazda
+379,Mazdaspeed MX-5 Miata,Mazda
+380,Mazdaspeed3,Mazda
+381,M-Class,Mercedes-Benz
+382,mdx,Acura
+383,MDX,Acura
+384,Milan,Mercury
+385,Milan Hybrid,Mercury
+386,Mirage,Mitsubishi
+387,MKC,Lincoln
+388,MKS,Lincoln
+389,MKT,Lincoln
+390,MKX,Lincoln
+391,MKZ,Lincoln
+392,MKZ Hybrid,Lincoln
+393,ML55 AMG,Mercedes-Benz
+394,Model S,Tesla
+395,Montana,Pontiac
+396,Montana SV6,Pontiac
+397,Monte Carlo,Chevrolet
+398,Montego,Mercury
+399,Monterey,Mercury
+400,Montero,Mitsubishi
+401,Mountaineer,Mercury
+402,MPV,Mazda
+403,MR2 Spyder,Toyota
+404,Murano,Nissan
+405,Murano CrossCabriolet,Nissan
+406,Mustang,Ford
+407,Mustang SVT Cobra,Ford
+408,MX-5 Miata,Mazda
+409,Navigator,Lincoln
+410,Navigator L,Lincoln
+411,Neon,Dodge
+412,New Beetle,Volkswagen
+413,Nitro,Dodge
+414,NV,Nissan
+415,NV Cargo,Nissan
+416,NV Passenger,Nissan
+417,NV200,Nissan
+418,Odyssey,Honda
+419,Optima,Kia
+420,Outback,Subaru
+421,Outlander,Mitsubishi
+422,Outlander Sport,Mitsubishi
+423,Outlook,Saturn
+424,Pacifica,Chrysler
+425,Panamera,Porsche
+426,Park Avenue,Buick
+427,Passat,Volkswagen
+428,Pathfinder,Nissan
+429,Patriot,Jeep
+430,Phaeton,Volkswagen
+431,Pilot,Honda
+432,Prius,Toyota
+433,Prius c,Toyota
+434,Prius Plug-in,Toyota
+435,Prius v,Toyota
+436,Promaster Cargo Van,Ram
+437,Prowler,Plymouth
+438,PT Cruiser,Chrysler
+439,Q45,Infiniti
+440,Q5,Audi
+441,Q50,Infiniti
+442,Q60 Convertible,Infiniti
+443,Q60 Coupe,Infiniti
+444,Q7,Audi
+445,Q70,Infiniti
+446,Quattroporte,Maserati
+447,Quest,Nissan
+448,QX,Infiniti
+449,QX4,Infiniti
+450,QX50,Infiniti
+451,QX56,Infiniti
+452,QX60,Infiniti
+453,QX70,Infiniti
+454,QX80,Infiniti
+455,R32,Volkswagen
+456,R8,Audi
+457,Rabbit,Volkswagen
+458,Raider,Mitsubishi
+459,Rainier,Buick
+460,Ram Pickup 1500,Dodge
+461,Ram Pickup 2500,Dodge
+462,Ram Pickup 3500,Dodge
+463,Range Rover,Land Rover
+464,Range Rover Evoque,Land Rover
+465,Range Rover Sport,Land Rover
+466,Ranger,Ford
+467,Rapide,Aston Martin
+468,RAV4,Toyota
+469,RC 350,Lexus
+470,RC F,Lexus
+471,R-Class,Mercedes-Benz
+472,RDX,Acura
+473,Regal,Buick
+474,Relay,Saturn
+475,Rendezvous,Buick
+476,Ridgeline,Honda
+477,Rio,Kia
+478,RL,Acura
+479,RLX,Acura
+480,Rodeo,Isuzu
+481,Rogue,Nissan
+482,Rogue Select,Nissan
+483,Rondo,Kia
+484,Routan,Volkswagen
+485,RS 4,Audi
+486,RS 5,Audi
+487,RS 6,Audi
+488,RS 7,Audi
+489,RSX,Acura
+490,RX 300,Lexus
+491,RX 330,Lexus
+492,RX 350,Lexus
+493,RX 400h,Lexus
+494,RX 450h,Lexus
+495,RX-8,Mazda
+496,S-10,Chevrolet
+497,S2000,Honda
+498,S4,Audi
+499,S40,Volvo
+500,S5,Audi
+501,S6,Audi
+502,S60,Volvo
+503,S7,Audi
+504,S8,Audi
+505,S80,Volvo
+506,Sable,Mercury
+507,Santa Fe,Hyundai
+508,Santa Fe Sport,Hyundai
+509,Savana,GMC
+510,Savana Cargo,GMC
+511,SC 300,Lexus
+512,SC 400,Lexus
+513,SC 430,Lexus
+514,S-Class,Mercedes-Benz
+515,Sebring,Chrysler
+516,Sedona,Kia
+517,Sentra,Nissan
+518,Sequoia,Toyota
+519,Seville,Cadillac
+520,Shelby GT500,Ford
+521,Sienna,Toyota
+522,Sierra 1500,GMC
+523,Sierra 1500 Classic,GMC
+524,Sierra 1500 Hybrid,GMC
+525,Sierra 1500HD,GMC
+526,Sierra 2500,GMC
+527,Sierra 2500HD,GMC
+528,Sierra 2500HD Classic,GMC
+529,Sierra 3500,GMC
+530,Sierra 3500HD,GMC
+531,Silverado 1500,Chevrolet
+532,Silverado 1500 Classic,Chevrolet
+533,Silverado 1500 Hybrid,Chevrolet
+534,Silverado 1500HD,Chevrolet
+535,Silverado 2500,Chevrolet
+536,Silverado 2500HD,Chevrolet
+537,Silverado 2500HD Classic,Chevrolet
+538,Silverado 3500,Chevrolet
+539,Silverado 3500 Classic,Chevrolet
+540,Silverado 3500HD,Chevrolet
+541,Sky,Saturn
+542,SL-Class,Mercedes-Benz
+543,SLK-Class,Mercedes-Benz
+544,SLS AMG,Mercedes-Benz
+545,SLS AMG GT,Mercedes-Benz
+546,Solstice,Pontiac
+547,Sonata,Hyundai
+548,Sonata Hybrid,Hyundai
+549,Sonic,Chevrolet
+550,Sonoma,GMC
+551,Sorento,Kia
+552,Soul,Kia
+553,Spark,Chevrolet
+554,Spark EV,Chevrolet
+555,Spectra,Kia
+556,Sportage,Kia
+557,Sprinter,Mercedes-Benz
+558,Sprinter Cargo,Dodge
+559,Spyder,Maserati
+560,SQ5,Audi
+561,SRX,Cadillac
+562,SS,Chevrolet
+563,SSR,Chevrolet
+564,Stratus,Dodge
+565,STS,Cadillac
+566,STS-V,Cadillac
+567,S-Type,Jaguar
+568,Suburban,Chevrolet
+569,SX4,Suzuki
+570,Tacoma,Toyota
+571,Tahoe,Chevrolet
+572,Tahoe Hybrid,Chevrolet
+573,Taurus,Ford
+574,Taurus X,Ford
+575,tC,Scion
+576,Terrain,GMC
+577,Terraza,Buick
+578,Thunderbird,Ford
+579,Tiburon,Hyundai
+580,Tiguan,Volkswagen
+581,Titan,Nissan
+582,TL,Acura
+583,TLX,Acura
+584,Torrent,Pontiac
+585,Touareg,Volkswagen
+586,Touareg 2,Volkswagen
+587,Town and Country,Chrysler
+588,Town Car,Lincoln
+589,TrailBlazer,Chevrolet
+590,TrailBlazer EXT,Chevrolet
+591,Transit Connect,Ford
+592,Transit Van,Ford
+593,Transit Wagon,Ford
+594,Traverse,Chevrolet
+595,Tribeca,Subaru
+596,Tribute,Mazda
+597,Tribute Hybrid,Mazda
+598,Truck,Mazda
+599,TSX,Acura
+600,TSX Sport Wagon,Acura
+601,TT,Audi
+602,TT RS,Audi
+603,TTS,Audi
+604,Tucson,Hyundai
+605,Tundra,Toyota
+606,Uplander,Chevrolet
+607,V40,Volvo
+608,V50,Volvo
+609,V60,Volvo
+610,V70,Volvo
+611,V8 Vantage,Aston Martin
+612,Veloster,Hyundai
+613,Venza,Toyota
+614,Veracruz,Hyundai
+615,Verano,Buick
+616,Versa,Nissan
+617,Versa Note,Nissan
+618,Vibe,Pontiac
+619,Viper,Dodge
+620,Volt,Chevrolet
+621,VUE,Saturn
+622,VUE Hybrid,Saturn
+623,Wrangler,Jeep
+624,WRX,Subaru
+625,X1,BMW
+626,X3,BMW
+627,X4,BMW
+628,X5,BMW
+629,X5 M,BMW
+630,X6,BMW
+631,X6 M,BMW
+632,xA,Scion
+633,xB,Scion
+634,XC,Volvo
+635,XC60,Volvo
+636,XC70,Volvo
+637,XC90,Volvo
+638,xD,Scion
+639,XF,Jaguar
+640,XG350,Hyundai
+641,XJ,Jaguar
+642,XJ-Series,Jaguar
+643,XK,Jaguar
+644,XK-Series,Jaguar
+645,XL7,Suzuki
+646,XL-7,Suzuki
+647,XLR,Cadillac
+648,Xterra,Nissan
+649,XTS,Cadillac
+650,X-Type,Jaguar
+651,XV Crosstrek,Subaru
+652,Yaris,Toyota
+653,Yukon,GMC
+654,Yukon Hybrid,GMC
+655,Yukon XL,GMC
+656,Z3,BMW
+657,Z4,BMW
+658,Z4 M,BMW
+659,ZDX,Acura
+660,Zephyr,Lincoln
